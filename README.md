@@ -17,3 +17,12 @@ I created this repository as a public learning log of my daily journey. It's not
     * canonical correlation analysis
     * maximum likelyhood estimation
 ---
+### 🗕️ 5th August 2025
+
+* ✅High Performance Computing (HPC)
+   * parellal processing with openMP
+   * uniform memory access and non uniform memory access
+   * Distributed and Parallel Computing
+   * basic information of what is openMP Directives
+   * some rules of openMP block structuer
+---
